@@ -2,7 +2,7 @@
  * @Author: xixi_
  * @Date: 2024/8/14 01:33:52
  * @LastEditors: xixi_
- * @LastEditTime: 2026-02-17 15:23:50
+ * @LastEditTime: 2026-02-17 15:26:04
  * @FilePath: /MiniWorldScript/README.md
  * Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
 -->
@@ -20,7 +20,7 @@
 # 项目结构
 - [DIR] script **脚本**
   - [DIR] Base64 **Base64编解码**
-  - [DIR] calc0 **初代计算器**
+  - [DIR] Calc0 **初代计算器**
   - [DIR] Typewriter **打字机**
 - [FILE] LICENSE **协议**
 - [FILE] README.md **就是这个**
