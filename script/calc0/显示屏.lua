@@ -8,8 +8,7 @@ Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
 --]]
 
 -- 显示屏类属性
-Screen_Class =
-{
+Screen_Class = {
     text = "",
     text_id = [[7183546817928307101_7]],
     playerid = 0,
@@ -28,10 +27,8 @@ end
 -- 显示屏类构造函数
 function Screen_Class:New(attr)
     local tab = {}
-    for k,v in pairs(self)
-    do
-        if(attr and attr[k])
-        then
+    for k, v in pairs(self) do
+        if (attr and attr[k]) then
             tab[k] = attr[k]
         else
             tab[k] = v

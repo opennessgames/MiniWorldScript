@@ -13,7 +13,7 @@ player_list = {}
 local function Game_AnyPlayer_EnterGame(event)
     local uin = event.eventobjid
     local uiid = [[7183546817928307101]]
-    Player:openUIView(uin,uiid)
+    Player:openUIView(uin, uiid)
     -- 初始化显示屏对象
     local attr = {playerid = uin}
     local screen_obj = Screen_Class:New(attr)
@@ -27,8 +27,7 @@ local function Game_AnyPlayer_EnterGame(event)
     -- 初始化计算对象
     local calculate_obj = Calculate_Class:New()
     -- 初始化玩家对象
-    local attr =
-    {
+    local attr = {
         playerid = uin,
         screen_obj = screen_obj,
         numkey_obj = numkey_obj,
@@ -41,4 +40,5 @@ local function Game_AnyPlayer_EnterGame(event)
 end
 
 -- 注册有玩家进入游戏监听器
-ScriptSupportEvent:registerEvent([=[Game.AnyPlayer.EnterGame]=], Game_AnyPlayer_EnterGame)
+ScriptSupportEvent:registerEvent([=[Game.AnyPlayer.EnterGame]=],
+                                 Game_AnyPlayer_EnterGame)
