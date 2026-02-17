@@ -2,7 +2,7 @@
  * @Author: xixi_
  * @Date: 2024/8/14 01:33:52
  * @LastEditors: xixi_
- * @LastEditTime: 2026-02-17 15:21:08
+ * @LastEditTime: 2026-02-17 15:23:50
  * @FilePath: /MiniWorldScript/README.md
  * Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
 -->
@@ -24,4 +24,7 @@
   - [DIR] Typewriter **打字机**
 - [FILE] LICENSE **协议**
 - [FILE] README.md **就是这个**
+
+# 最新消息
+- 对每一个文件加入了文件头, 由于时间过于久远, 2019到2022年之间都是使用手机写代码的, 创建时间丢失, 就以最后的修改时间为创建时间
 
