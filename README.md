@@ -1,8 +1,8 @@
 <!--
  * @Author: xixi_
- * @Date: 2024/8/14 01:33:52
+ * @Date: 2024-8-14 01:33:52
  * @LastEditors: xixi_
- * @LastEditTime: 2026-02-17 15:31:08
+ * @LastEditTime: 2026-02-17 15:41:46
  * @FilePath: /MiniWorldScript/README.md
  * Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
 -->
@@ -25,6 +25,7 @@
   - [DIR] Base64 **Base64编解码**
   - [DIR] Calc0 **初代计算器**
   - [DIR] Typewriter **打字机**
+  - [DIR] LittleMathematician **小小数学家**
 - [FILE] LICENSE **协议**
 - [FILE] README.md **就是这个**
 
