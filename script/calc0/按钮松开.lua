@@ -1,3 +1,12 @@
+--[[
+Author: xixi_
+Date: 2023-3-18 18:58:22
+LastEditors: xixi_
+LastEditTime: 2026-02-17 14:52:48
+FilePath: /MiniWorldScript/script/calc0/按钮松开.lua
+Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
+--]] 
+
 -- 界面中的按钮被松开时运行
 local function UI_Button_Click(event)
     local button_id = event.btnelenemt

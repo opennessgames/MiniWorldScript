@@ -1,3 +1,12 @@
+--[[
+Author: xixi_
+Date: 2021-8-23 19:40:10
+LastEditors: xixi_
+LastEditTime: 2026-02-17 14:51:26
+FilePath: /MiniWorldScript/script/Typewriter/打字机脚本3中英字符.lua
+Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
+--]] 
+
 --len获取中英混合UTF8字符串的真实字符数量
 --sub截取中英混合的UTF8字符串，endIndex可缺省
 local function subyt(str,index)

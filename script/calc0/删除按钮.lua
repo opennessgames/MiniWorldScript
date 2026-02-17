@@ -1,3 +1,12 @@
+--[[
+Author: xixi_
+Date: 2023-3-18 18:57:28
+LastEditors: xixi_
+LastEditTime: 2026-02-17 14:53:49
+FilePath: /MiniWorldScript/script/calc0/删除按钮.lua
+Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
+--]]
+
 -- 删除按钮类属性
 Backspace_Class =
 {

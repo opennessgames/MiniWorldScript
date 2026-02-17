@@ -1,3 +1,12 @@
+--[[
+Author: xixi_
+Date: 2023-3-18 18:57:12
+LastEditors: xixi_
+LastEditTime: 2026-02-17 14:55:10
+FilePath: /MiniWorldScript/script/calc0/运算符.lua
+Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
+--]]
+
 -- 运算符按钮类属性
 Operator_Class =
 {

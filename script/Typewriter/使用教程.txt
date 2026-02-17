@@ -1,3 +1,12 @@
+/*
+ * @Author: xixi_
+ * @Date: 2021-8-27 17:13:56
+ * @LastEditors: xixi_
+ * @LastEditTime: 2026-02-17 14:52:20
+ * @FilePath: /MiniWorldScript/script/Typewriter/使用教程.txt
+ * Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
+ */
+
 打开方式为文本编辑
 一共需要4个脚本，前两个需要电脑版迷你世界解决，第二个的话手机输入法可以勉强复制，后两个用也可以手机复制
 电脑版迷你世界打开方式：点右上角的卷轴，点脚本，点新建，再点右上角的文件图标，选好后点打开即可

@@ -1,3 +1,12 @@
+--[[
+Author: xixi_
+Date: 2023-3-18 18:57:46
+LastEditors: xixi_
+LastEditTime: 2026-02-17 14:53:37
+FilePath: /MiniWorldScript/script/calc0/计算按钮.lua
+Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
+--]]
+
 -- 计算按钮类属性
 Calculate_Class =
 {

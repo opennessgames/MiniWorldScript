@@ -1,3 +1,12 @@
+--[[
+Author: xixi_
+Date: 2023-3-18 18:56:48
+LastEditors: xixi_
+LastEditTime: 2026-02-17 14:54:11
+FilePath: /MiniWorldScript/script/calc0/数字按钮.lua
+Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
+--]]
+
 -- 数字按钮类属性
 Number_Class =
 {

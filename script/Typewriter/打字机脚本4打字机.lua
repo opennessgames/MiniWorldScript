@@ -1,3 +1,12 @@
+--[[
+Author: xixi_
+Date: 2021-8-23 19:40:10
+LastEditors: xixi_
+LastEditTime: 2026-02-17 14:51:36
+FilePath: /MiniWorldScript/script/Typewriter/打字机脚本4打字机.lua
+Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
+--]] 
+
 --坐标：
 local x0,y0,z0=-64,7,63--打字起点
 ------------------

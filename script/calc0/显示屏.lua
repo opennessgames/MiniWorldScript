@@ -1,3 +1,12 @@
+--[[
+Author: xixi_
+Date: 2023-3-18 18:55:12
+LastEditors: xixi_
+LastEditTime: 2026-02-17 14:54:47
+FilePath: /MiniWorldScript/script/calc0/显示屏.lua
+Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
+--]]
+
 -- 显示屏类属性
 Screen_Class =
 {
