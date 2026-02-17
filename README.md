@@ -2,7 +2,7 @@
  * @Author: xixi_
  * @Date: 2024/8/14 01:33:52
  * @LastEditors: xixi_
- * @LastEditTime: 2026-02-17 15:27:06
+ * @LastEditTime: 2026-02-17 15:31:08
  * @FilePath: /MiniWorldScript/README.md
  * Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
 -->
@@ -13,6 +13,9 @@
 
 # 简单介绍
   这是一个很特殊的开源项目,是对以前我在社交平台上发布的脚本的一个集合.
+
+# 元顺元年
+- 以公元2020年4月26日 0时0分0秒, 为元顺元年一月一日〇时〇分〇秒
 
 # 运行环境
   迷你世界
