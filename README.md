@@ -2,7 +2,7 @@
  * @Author: xixi_
  * @Date: 2024-8-14 01:33:52
  * @LastEditors: xixi_
- * @LastEditTime: 2026-02-18 14:29:32
+ * @LastEditTime: 2026-02-18 14:40:58
  * @FilePath: /MiniWorldScript/README.md
  * Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
 -->
@@ -31,6 +31,7 @@
   - [DIR] MiniDevWiki **迷你世界开发者学院**
   - [DIR] ScientificCalculator **科学计算器**
     - [DIR] **星空露珠版**
+  - [DIR] Calc1 **星空露珠版简易计算器** 
 - [FILE] LICENSE **协议**
 - [FILE] README.md **就是这个**
 
