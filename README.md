@@ -2,7 +2,7 @@
  * @Author: xixi_
  * @Date: 2024-8-14 01:33:52
  * @LastEditors: xixi_
- * @LastEditTime: 2026-02-17 18:41:31
+ * @LastEditTime: 2026-02-18 14:10:31
  * @FilePath: /MiniWorldScript/README.md
  * Copyright (c) 2020-2026 by xixi_ , All Rights Reserved.
 -->
@@ -28,6 +28,7 @@
   - [DIR] LittleMathematician **小小数学家**
   - [DIR] JsonDocument **JSON解析器**
   - [DIR] 2048 **2048游戏**
+  - [DIR] MiniDevWiki **迷你世界开发者学院**
 - [FILE] LICENSE **协议**
 - [FILE] README.md **就是这个**
 
