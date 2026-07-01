@@ -1,0 +1,5 @@
+# Lua
+*.luac
+
+# xixi
+/Tmp/*
